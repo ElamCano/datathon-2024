@@ -36,12 +36,12 @@ Los datasets utilizados resultaron ser muy útiles y completos para identificar 
 
 ## Fuente del Portal de Datos de Corrientes
 
-Establecimientos educativos [Link](https://datos.ciudaddecorrientes.gov.ar/dataset/establecimientos-educativos).
-Densidad poblacional [Link](https://datos.ciudaddecorrientes.gov.ar/dataset/barrios).
+- Establecimientos educativos [Link](https://datos.ciudaddecorrientes.gov.ar/dataset/establecimientos-educativos)
+- Densidad poblacional [Link](https://datos.ciudaddecorrientes.gov.ar/dataset/barrios)
 
 ## Fuentes externas
 
-- Informe diagnostico Corrientes 2019 [Link](https://www.argentina.gob.ar/sites/default/files/20.08.04_informe_corr.pdf).
-- Informe diagnostico Corrientes 2022 [Link](https://www.argentina.gob.ar/sites/default/files/informe_corrientes_22_2s_1.pdf).
-- Habitantes por domicilio en Corrientes [Link](https://estadistica.corrientes.gob.ar/noticias/corrientes-cantidad-de-habitantes-por-municipio-en-2022).
+- Informe diagnostico Corrientes 2019 [Link](https://www.argentina.gob.ar/sites/default/files/20.08.04_informe_corr.pdf)
+- Informe diagnostico Corrientes 2022 [Link](https://www.argentina.gob.ar/sites/default/files/informe_corrientes_22_2s_1.pdf)
+- Habitantes por domicilio en Corrientes [Link](https://estadistica.corrientes.gob.ar/noticias/corrientes-cantidad-de-habitantes-por-municipio-en-2022)
 - Estudio distancia entre hogares y unidades educativas [Link](https://frenteacano.com.ar/wp-content/uploads/2023/07/104-76-PB-93-109.pdf)
