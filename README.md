@@ -10,7 +10,7 @@
 
 ## Tecnologías utilizadas
 
-NextJs, TailWindCSS, CSS, Kepler.gl, Excel functions
+NextJs, TypeScript, Kepler.gl, Excel functions, TailWindCSS, CSS.
 
 ---
 
