@@ -2,7 +2,7 @@
 
 ![cover](/public/portada.png)
 
-<!-- Puedes acceder al sitio deployado en el siguiente: [Link](https://myapp-nine-delta.vercel.app/) -->
+Puedes acceder al sitio deployado en el siguiente: [Link](https://datathon-2024-three.vercel.app/)
 
 ## Autor
 
@@ -10,7 +10,7 @@
 
 ## Tecnologías utilizadas
 
-NextJs, TypeScript, Kepler.gl, Excel functions, TailWindCSS, CSS.
+NextJs, TypeScript, Kepler.gl, Excel functions, Leonardo AI, Gliff TailWindCSS, CSS.
 
 ---
 
