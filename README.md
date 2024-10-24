@@ -10,7 +10,7 @@ Puedes acceder al sitio deployado en el siguiente: [Link](https://datathon-2024-
 
 ## Tecnologías utilizadas
 
-NextJs, TypeScript, Kepler.gl, Excel functions, Leonardo AI, Gliff TailWindCSS, CSS.
+NextJs, TypeScript, Kepler.gl, Excel functions, Leonardo AI, Gliff, TailWindCSS, CSS.
 
 ---
 
@@ -21,7 +21,7 @@ El tema principal de la presentación es el análisis de la densidad poblacional
 ## Detalle de Presentación
 
 De acuerdo con los datos sobre la densidad poblacional de Corrientes Capital, los barrios más poblados son los siguientes:
-![cover](/public/densidad_poblacion.png)
+![cover](/public/barrios.png)
 En el mapa, los colores más claros representan zonas con menor cantidad de habitantes, mientras que los colores más oscuros indican áreas con mayor densidad poblacional.
 
 Es fundamental comprender la geografía poblacional, ya sea de Corrientes Capital o de cualquier otra ciudad de la provincia, ya que esto impacta directamente en la educación primaria, que constituye los primeros años de formación de las personas. Factores como el transporte, las condiciones climáticas adversas y la disponibilidad de cupos en colegios pueden influir en la asistencia escolar, especialmente en los sectores más vulnerables de la población.
